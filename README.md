@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Janyaporn Kengtrong, currently working as a Student Research Assistant at HKU's AI in Education Lab while pursuing my FinTech major with Computer Science minor at the University of Hong Kong. As an HKU Belt and Road Scholarship recipient, I'm actively learning ML/AI and Data Science, and I'm passionate about building tech solutions for real-world problems.</p>
+<p align="left">I'm Janyaporn Kengtrong, currently working as a Student Research Assistant at HKU's AI in Education Lab while pursuing my FinTech major with a minor in Computer Science at the University of Hong Kong. As an HKU Belt and Road Scholarship recipient, I'm actively learning ML/AI and Data Science, and I'm passionate about building tech solutions for real-world problems.</p>
 
 ###
 
