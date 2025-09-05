@@ -28,6 +28,7 @@
 ###
 
 <p align="left">
+• <b>AI Stock Analyzer</b>: Streamlit-based web application that fetches, visualizes, and analyzes stock market data using AI-powered insights<br>
 • <b>Fractional Stock Investment Platform</b>: Blockchain system for tokenized stock ownership using Solidity & Web3<br>
 • <b>Predict Home Prices</b>: Linear regression model using Python, Scikit-learn, Pandas and Matplotlib<br>
 • <b>Album Finder</b>: Web app integrating Spotify API with JavaScript<br>
